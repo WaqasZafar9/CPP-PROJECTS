@@ -1,0 +1,21 @@
+
+
+			---------------------------------------------
+			|     RIPHAH INTERNATIONAL UNIVERSITY	    |
+			---------------------------------------------
+			|	Roll No :3001			   	    |
+			|	Name : Fuzail			          |
+			|	Gender : M			    		    |
+			|	Email : fuzailraza161@gmail.com	    |
+			|	Phone No : 00000000000000		    |
+			|	Degree : BSSE			          |
+			|	Matric Marks : 000       		    |
+			|	Inter Marks :  000      		    |
+			|	Total Scholarship : 31100	          |
+			| -----------------------------------------   |
+			|	TOTAL PAYABLE FEE(within duedate)   | 
+			|	   Due Date :- 00-August-0000       | 
+			|	     Amount -->   31100	            |
+			|	TOTAL PAYABLE FEE(After duedate)    | 
+			|	     Amount -->   32300	            |
+			---------------------------------------------
